@@ -33,5 +33,5 @@ with these installed you can start your server.
 ## Mango db.
 Online version of mango db so no folder is provided
 #### Git repository 
-https://github.com/ghgharry2/scheduler
+https://github.com/ghgharry2/task-.git
 
